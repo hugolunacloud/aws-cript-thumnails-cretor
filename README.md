@@ -1,5 +1,7 @@
 # aws-cript-thumnails-cretor
 
+This lab project was made during my studies for my Google IT Automation with Python.
+
 The goal of the script is to automate the resizing of images uploaded to a website, maintaining a specific size to ensure proper display in the website section. The script will be developed to work within the Amazon storage service, S3, allowing for automatic resizing without the need for manual intervention.
 
 ![Untitled_Artwork](https://user-images.githubusercontent.com/123271041/235210885-e8406a82-cc1f-4465-98fa-fcd1f2579019.jpeg)
