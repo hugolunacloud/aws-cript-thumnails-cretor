@@ -1,0 +1,1 @@
+# aws-cript-thumnails-cretor
